@@ -1,6 +1,5 @@
 ---
-title: 'btmembers: An R package to import data on all members of the Bundestag since
-  1949'
+title: 'btmembers: An R package to import data on all members of the Bundestag since 1949'
 
 # to produce blinded version set to 1
 blinded: 0
